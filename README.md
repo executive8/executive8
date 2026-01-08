@@ -1,12 +1,15 @@
 
 # Augustine (August8)
-Cybersecurity | SOC / Blue Team | Network Security | Python
+Cybersecurity | SOC| Network Security | Python|| Location:: Toronto, Canada
+
+## Open to
+SOC Analyst (Junior), Cybersecurity Analyst(Junior)
 
 I build hands-on security labs and detection content focused on monitoring, investigation, and incident response.
 
 ## Focus areas
 - SIEM monitoring, alerting, and threat hunting
-- Network detection with IDS/IPS (Suricata) and traffic analysis
+- Network detection with IDS (Suricata) and traffic analysis
 - Malware detection with YARA and basic analysis notes
 - Security automation with Python / PowerShell
 
