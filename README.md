@@ -1,16 +1,23 @@
-## Hi there 👋
+Cybersecurity | SOC / Blue Team | Network Security | Python
 
-<!--
-**executive8/executive8** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I build hands-on security labs and detection content focused on monitoring, investigation, and incident response.
+Focus areas
+-Network Basics
+-SIEM monitoring, alerting, and threat hunting
+-Network detection with IDS/IPS (Suricata) and traffic analysis
+-Malware detection with YARA and basic analysis notes
+-Security automation with Python / PowerShell
 
-Here are some ideas to get you started:
+Featured work (building now)
+-SOC Detection Pack (Wazuh / Splunk) — hunting queries + alert logic (coming soon)
+-Suricata Rules Lab — custom IDS rules + testing notes (coming soon)
+-YARA Signatures — rules + validation steps (coming soon)  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Skills
+SIEM: Wazuh, Splunk,
+Network: Wireshark, Suricata
+Scripting: Python, PowerShell, Bash
+Frameworks: MITRE ATT&CK, NIST/ISO basics
+
+Contact
+LinkedIn: https://www.linkedin.com/in/augustine-boafo-6356643a2/
