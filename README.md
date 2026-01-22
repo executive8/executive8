@@ -3,11 +3,12 @@
 Cybersecurity | SOC| Network Security | Python|| Location:: Toronto, Canada
 
 ## Open to
-SOC Analyst (Junior), Cybersecurity Analyst(Junior)
+SOC Analyst (Junior), Information Security Analyst(Junior)
 
 I build hands-on security labs and detection content focused on monitoring, investigation, and incident response.
 
 ## Focus areas
+- Network Basics through to Network Security
 - SIEM monitoring, alerting, and threat hunting
 - Network detection with IDS (Suricata) and traffic analysis
 - Malware detection with YARA and basic analysis notes
